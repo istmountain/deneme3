@@ -1,0 +1,3 @@
+hakan github ogreniyor.
+cd deneme
+ls
